@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java
 - 💬 Ask me about Java, Bootstrap, JS
 - ⚡ Fun fact :- I'm a good YouTuber
-- 📫 How to reach me Send Email
+- 📫 How to reach me Send tarifraaj786@gmail.com
 - 👨‍💻 All of my projects are available at WAITING LIST
 <!---
 TarifAnsari/TarifAnsari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
